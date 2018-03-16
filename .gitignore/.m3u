@@ -1,6 +1,10 @@
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",======NETHERLANDS=======
-http://www.lengua.com/anthems/Netherlands.mp3
 #EXTM3U
+#EXTINF:-1,NPO 1 HD
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/765.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NPO 2 FHD 1080
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/766.m3u8$http-refferer=http://localhost
+#EXTINF:-1,NPO 3 FHD 1080
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/767.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Film1 Premiere FHD 1080
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/762.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Nat Geo Wild FHD 1080
@@ -9,12 +13,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/759.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/758.m3u8$http-refferer=http://localhost
 #EXTINF:-1,Net 5 FHD 1080
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/757.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 1 HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/765.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 2 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/766.m3u8$http-refferer=http://localhost
-#EXTINF:-1,NPO 3 FHD 1080
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/767.m3u8$http-refferer=http://localhost
 #EXTINF:-1,RTL 4 FHD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/768.m3u8$http-refferer=http://localhost
 #EXTINF:-1,RTL 5 FHD 1080
